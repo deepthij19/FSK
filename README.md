@@ -92,6 +92,10 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/7515a839-451c-40ce-bbf3-48121af6b5c9)
 
+# GRAPH:
+
+![image](https://github.com/user-attachments/assets/7a8d885e-caab-4c5c-8df8-b5cfb4bbeda4)
+
 
 # Results
 
